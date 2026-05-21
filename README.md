@@ -15,8 +15,7 @@
 | 🐍 Python EDA | Bangalore Restaurant Market Analysis | Python, Pandas, Seaborn |
 | 🗄️ SQL | E-Commerce Customer Analytics,Dannys Diner Case Study | MYSQL |
 | 🤖 ML |  | Scikit-learn, Python |
-| 📊 Power BI | Formula 1 World Championship Performance 
-Intelligence Dashboard | Power BI, DAX |
+| 📊 Power BI | Formula 1 World Championship Performance Intelligence Dashboard | Power BI, DAX |
 | 📈 Excel | | Excel, Pivot Tables |
 
 ## 📫 Connect with Me
