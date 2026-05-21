@@ -1,5 +1,5 @@
-# Hi, I'm Niranjan Nandam 👋
-
+                                          # Hi, I'm Niranjan Nandam 👋
+--
 🎓 ECE Graduate | 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 🤖 ML
 
 ## 🔧 Tech Stack
@@ -9,14 +9,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-## 📂 Portfolio Projects
-| Domain | Project | Tools |
-|--------|---------|-------|
-| 🐍 Python EDA | Bangalore Restaurant Market Analysis | Python, Pandas, Seaborn |
-| 🗄️ SQL | E-Commerce Customer Analytics,Dannys Diner Case Study | MYSQL |
-| 🤖 ML |  | Scikit-learn, Python |
-| 📊 Power BI | Formula 1 World Championship Performance Intelligence Dashboard | Power BI, DAX |
-| 📈 Excel | | Excel, Pivot Tables |
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niranjan-nandam)
