@@ -1,5 +1,5 @@
-                                          # Hi, I'm Niranjan Nandam 👋
---
+# Hi, I'm Niranjan Nandam 👋
+
 🎓 ECE Graduate | 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 🤖 ML
 
 ## 🔧 Tech Stack
