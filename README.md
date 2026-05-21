@@ -13,7 +13,7 @@
 | Domain | Project | Tools |
 |--------|---------|-------|
 | 🐍 Python EDA | Bangalore Restaurant Market Analysis | Python, Pandas, Seaborn |
-| 🗄️ SQL | E-Commerce Customer Analytics | SQL, Window Functions |
+| 🗄️ SQL | E-Commerce Customer Analytics,Dannys Diner Case Study | MYSQL |
 | 🤖 ML |  | Scikit-learn, Python |
 | 📊 Power BI | Formula 1 World Championship Performance 
 Intelligence Dashboard | Power BI, DAX |
