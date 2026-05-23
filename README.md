@@ -1,4 +1,6 @@
 # Hi, I'm Niranjan Nandam 👋
+<img width="2000" height="600" alt="White   Black Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/337d4cab-7546-4ebd-8e76-2e8818d4ce77" />
+
 
 🎓 ECE Graduate | 📊 Data Analyst | 🐍 Python | 🗄️ SQL | 🤖 ML
 
