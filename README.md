@@ -62,7 +62,7 @@ MySQL
 
 📧 Email: niranjan.nandams99@gmail.com
 
-💼 LinkedIn: linkedin.com/in/niranjan-nandam
+💼 LinkedIn: www.linkedin.com/in/niranjan-nandam
 
 📍 Bangalore, India
 
