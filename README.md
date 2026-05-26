@@ -13,6 +13,12 @@ Currently focused on Data Analytics, Business Intelligence, Python, SQL, and Mac
   <img src="https://komarev.com/ghpvc/?username=niranjannandams99-droid&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+ <p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=niranjannandams99-droid&label=Profile+Views&style=for-the-badge" />
+</p>
 ---
 
 
