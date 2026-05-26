@@ -9,6 +9,10 @@ ECE Graduate with industry experience as an Instrumentation Engineer.
 Currently focused on Data Analytics, Business Intelligence, Python, SQL, and Machine Learning.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niranjannandams99-droid&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 
@@ -38,7 +42,7 @@ Currently focused on Data Analytics, Business Intelligence, Python, SQL, and Mac
 🔹 **Machine Learning Projects** – Predictive modelling and insights
 
 ---
-## 📊 GitHub Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight&hide_border=true" />
