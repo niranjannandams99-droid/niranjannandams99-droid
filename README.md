@@ -54,41 +54,7 @@ Power BI • Excel • Matplotlib
 MySQL
 
 ### Tools
-Git • GitHub • Jupyter Notebook • VS Code
-
----
-
-## 📂 Featured Projects
-
-### SQL Portfolio
-Business-oriented SQL projects covering:
-- Data Cleaning
-- Query Optimization
-- KPI Reporting
-- Database Design
-
-### Python Analytics Portfolio
-Projects involving:
-- Data Analysis
-- Automation
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-
-### Power BI Dashboard Portfolio
-Interactive dashboards for:
-- Sales Analysis
-- Business Intelligence
-- Performance Tracking
-
----
-
-## 📈 2026 Goals
-
-- Complete 100+ SQL Problems
-- Build 20 Data Analytics Projects
-- Master Power BI
-- Learn Advanced Machine Learning
-- Land a Data Analyst Role
+• GitHub • Jupyter Notebook • VS Code
 
 ---
 
