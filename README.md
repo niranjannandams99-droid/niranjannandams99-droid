@@ -39,21 +39,17 @@ ECE Graduate with industry experience as an Instrumentation Engineer, currently 
 🔹 **Machine Learning Projects** – Predictive modelling and insights
 
 ---
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niranjannandams99-droid&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjannandams99-droid&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight" />
 </p>
----
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
 ### 🌐 Connect With Me
 
