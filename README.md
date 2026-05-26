@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Data Analyst | SQL Enthusiast</h3>
+<h3 align="center">Data Analyst </h3>
 
 <p align="center">
 ECE Graduate with industry experience as an Instrumentation Engineer, currently specialising in Data Analytics, Business Intelligence, and Machine Learning.
