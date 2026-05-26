@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Niranjan Nandam</h1>
 <img width="2000" height="600" alt="White   Black Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/337d4cab-7546-4ebd-8e76-2e8818d4ce77" />
 
+<h1 align="center">Hi 👋, I'm Niranjan Nandam</h1>
 
-<h3 align="center">Data Analyst | Python Developer | SQL Enthusiast</h3>
+
+
+<h3 align="center">Data Analyst | SQL Enthusiast</h3>
 
 <p align="center">
 ECE Graduate with industry experience as an Instrumentation Engineer, currently specialising in Data Analytics, Business Intelligence, and Machine Learning.
