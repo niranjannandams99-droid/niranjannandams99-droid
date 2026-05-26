@@ -1,29 +1,28 @@
 <img width="2000" height="600" alt="White   Black Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/337d4cab-7546-4ebd-8e76-2e8818d4ce77" />
 
-<h1 align="center">Hi 👋, I'm Niranjan Nandam</h1>
+<h1 align="center">Hi, I'm Niranjan Nandam 👋</h1>
 
-
-
-<h3 align="center">Data Analyst </h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
 
 <p align="center">
-ECE Graduate with industry experience as an Instrumentation Engineer, currently specialising in Data Analytics, Business Intelligence, and Machine Learning.
+ECE Graduate with industry experience as an Instrumentation Engineer.
+Currently focused on Data Analytics, Business Intelligence, Python, SQL, and Machine Learning.
 </p>
 
 ---
 
-### 🚀 Tech Stack
 
-<p align="left">
+### 🛠 Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
 </p>
 
 ---
@@ -39,15 +38,16 @@ ECE Graduate with industry experience as an Instrumentation Engineer, currently 
 🔹 **Machine Learning Projects** – Predictive modelling and insights
 
 ---
-## 📊 Contribution Streak
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjannandams99-droid&theme=tokyo-night&hide_border=true" />
+</p>
 
-[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niranjannandams99-droid&theme=tokyo-night)](https://github.com/niranjannandams99-droid)
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
