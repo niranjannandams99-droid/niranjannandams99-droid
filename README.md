@@ -1,71 +1,61 @@
-# Hi, I'm Niranjan Nandam 👋
+<h1 align="center">Hi 👋, I'm Niranjan Nandam</h1>
 <img width="2000" height="600" alt="White   Black Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/337d4cab-7546-4ebd-8e76-2e8818d4ce77" />
 
 
-### From Industrial Engineering to Data Analytics
+<h3 align="center">Data Analyst | Python Developer | SQL Enthusiast</h3>
 
-I started my career as an Instrumentation Engineer in the manufacturing industry, where I worked with industrial processes, monitoring systems, and operational data.
-
-While working in industry, I became fascinated by how data drives decisions. That curiosity led me into the world of Data Analytics, SQL, Python, and Machine Learning.
-
-Today, I'm actively building projects that transform raw data into meaningful insights and help solve real-world business problems.
+<p align="center">
+ECE Graduate with industry experience as an Instrumentation Engineer, currently specialising in Data Analytics, Business Intelligence, and Machine Learning.
+</p>
 
 ---
 
-## 🚀 Current Focus
+### 🚀 Tech Stack
 
-📊 Data Analytics
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-🐍 Python Programming
-
-🗄 SQL & Database Management
-
-📈 Power BI Dashboard Development
-
-🤖 Machine Learning Fundamentals
-
-🧩 Data Structures & Algorithms
-
----
-
-## 💡 What Makes Me Different?
-
-✔ Engineering mindset with industrial experience
-
-✔ Strong analytical and problem-solving approach
-
-✔ Combining domain knowledge with data skills
-
-✔ Learning by building real-world projects
-
-✔ Continuous improvement every day
+<p align="left">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
+</p>
 
 ---
 
-## 🛠 Tech Toolbox
+### 📌 Featured Repositories
 
-### Programming & Analysis
-Python • SQL • Pandas • NumPy
+🔹 **SQL Projects** – Data cleaning, reporting, and business analysis
 
-### Visualization
-Power BI • Excel • Matplotlib
+🔹 **Python Projects** – Data analysis, automation, and visualisation
 
-### Databases
-MySQL
+🔹 **Power BI Dashboards** – Interactive business intelligence solutions
 
-### Tools
-• GitHub • Jupyter Notebook • VS Code
+🔹 **Machine Learning Projects** – Predictive modelling and insights
 
 ---
 
-## 🌍 Connect With Me
+### 📈 GitHub Statistics
 
-📧 Email: niranjan.nandams99@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjannandams99-droid&show_icons=true&theme=tokyonight)
 
-💼 LinkedIn: www.linkedin.com/in/niranjan-nandam
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjannandams99-droid&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:niranjan.nandams99@gmail.com)
 
 📍 Bangalore, India
 
 ---
 
-> "Turning data into decisions and learning into impact."
+> Turning data into actionable insights.
