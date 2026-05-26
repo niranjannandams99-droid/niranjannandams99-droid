@@ -45,6 +45,9 @@ ECE Graduate with industry experience as an Instrumentation Engineer, currently 
   <img src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
+## 📈 Contribution Graph
+
+[![Niranjan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niranjannandams99-droid&theme=tokyo-night)](https://github.com/niranjannandams99-droid)
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
