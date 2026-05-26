@@ -40,14 +40,19 @@ ECE Graduate with industry experience as an Instrumentation Engineer, currently 
 
 ---
 
-### 📈 GitHub Statistics
+### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjannandams99-droid&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niranjannandams99-droid&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjannandams99-droid&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjannandams99-droid&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight" />
+</p>
 ---
 
 ### 🌐 Connect With Me
