@@ -52,7 +52,7 @@ Currently focused on Data Analytics, Business Intelligence, Python, SQL, and Mac
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
+[![portfolio](https://niranjan-portfolio-ten.vercel.app/)](portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:niranjan.nandams99@gmail.com)
 
 📍 Bangalore, India
