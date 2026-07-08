@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="White   Black Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/337d4cab-7546-4ebd-8e76-2e8818d4ce77" />
+<img width="2000" height="600" alt="White   Black Simple Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/c2a7850e-2047-4ad1-a4d0-4518a83fc238" />
 
 <h1 align="center">Hi, I'm Niranjan Nandam 👋</h1>
 
