@@ -30,13 +30,13 @@ Currently focused on Data Analytics, Business Intelligence, Python, SQL, and Mac
 
 ### 📌 Featured Repositories
 
-🔹 **SQL Projects** – Data cleaning, reporting, and business analysis
+🔹 **SQL Projects** - Data cleaning, reporting, and business analysis
 
-🔹 **Python Projects** – Data analysis, automation, and visualisation
+🔹 **Python Projects** - Data analysis, automation, and visualisation
 
-🔹 **Power BI Dashboards** – Interactive business intelligence solutions
+🔹 **Power BI Dashboards** - Interactive business intelligence solutions
 
-🔹 **Machine Learning Projects** – Predictive modelling and insights
+🔹 **Machine Learning Projects** - Predictive modelling and insights
 
 ---
 ## 📈 Contribution Activity
