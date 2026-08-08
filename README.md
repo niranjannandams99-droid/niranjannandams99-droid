@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/niranjannandams99-droid/niranjannandams99-droid/main/assets/hero-banner.svg" width="100%" alt="Niranjan Nandam — Data Analyst" />
 
-
 <br/>
 
 <a href="#about"><img src="https://img.shields.io/badge/ABOUT-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0B0F19&logoColor=22D3EE" height="28"/></a>
