@@ -1,0 +1,46 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ttBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="100%" stop-color="#0B0F19"/>
+    </linearGradient>
+    <style>
+      .tt-label { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11.5px; font-weight: 600; fill: #E6EDF3; }
+      .tt-sub { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 9.5px; fill: #8B95A7; }
+      @keyframes dotPulse { 0%,100% { r: 5; opacity: 1; } 50% { r: 7; opacity: .6; } }
+      .dot { animation: dotPulse 2.4s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="900" height="150" fill="url(#ttBg)"/>
+  <rect x="0.5" y="0.5" width="899" height="149" fill="none" stroke="#1C2333"/>
+
+  <line x1="60" y1="70" x2="840" y2="70" stroke="url(#lineGradFallback)" stroke-width="1.5"/>
+  <line x1="60" y1="70" x2="840" y2="70" stroke="#22D3EE" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- 5 milestones -->
+  <g>
+    <circle cx="60" cy="70" r="5" fill="#22D3EE" class="dot"/>
+    <text x="60" y="45" text-anchor="middle" class="tt-label">ECE Graduate</text>
+    <text x="60" y="95" text-anchor="middle" class="tt-sub">Electronics &amp;</text>
+    <text x="60" y="107" text-anchor="middle" class="tt-sub">Communication</text>
+
+    <circle cx="255" cy="70" r="5" fill="#22D3EE" class="dot" style="animation-delay:.3s"/>
+    <text x="255" y="45" text-anchor="middle" class="tt-label">Instrumentation</text>
+    <text x="255" y="95" text-anchor="middle" class="tt-sub">Engineering role in</text>
+    <text x="255" y="107" text-anchor="middle" class="tt-sub">manufacturing</text>
+
+    <circle cx="450" cy="70" r="5" fill="#22D3EE" class="dot" style="animation-delay:.6s"/>
+    <text x="450" y="45" text-anchor="middle" class="tt-label">Industrial Experience</text>
+    <text x="450" y="95" text-anchor="middle" class="tt-sub">Process monitoring,</text>
+    <text x="450" y="107" text-anchor="middle" class="tt-sub">troubleshooting, reporting</text>
+
+    <circle cx="645" cy="70" r="5" fill="#A78BFA" class="dot" style="animation-delay:.9s"/>
+    <text x="645" y="45" text-anchor="middle" class="tt-label">Data Science &amp; Analytics</text>
+    <text x="645" y="95" text-anchor="middle" class="tt-sub">Python, SQL, Power BI,</text>
+    <text x="645" y="107" text-anchor="middle" class="tt-sub">ML / DL</text>
+
+    <circle cx="840" cy="70" r="6" fill="#A78BFA" class="dot" style="animation-delay:1.2s"/>
+    <text x="840" y="45" text-anchor="middle" class="tt-label" fill="#A78BFA">Data Analyst</text>
+    <text x="840" y="95" text-anchor="middle" class="tt-sub">Career target</text>
+  </g>
+</svg>
