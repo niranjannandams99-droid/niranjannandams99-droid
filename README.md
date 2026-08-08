@@ -103,7 +103,7 @@ I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning
 
 **Instrumentation Engineer** · Manufacturing
 
-Worked with industrial process data before moving into analytics | the transferable skill set carried over directly:
+Worked with industrial process data before moving into analytics, the transferable skill set carried over directly:
 
 - Process monitoring and industrial data interpretation
 - Troubleshooting and root-cause analysis
