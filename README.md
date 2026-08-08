@@ -87,16 +87,8 @@ I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning
 </td></tr>
 </table>
 
-<br/>
 
-
-<div align="center">
-<sub>More projects — Power BI dashboards, ML, and deep learning work — are in progress and will be added here as they're published.</sub>
-</div>
-
-<br/>
-
-<h2 id="workflow">04 — How I Work With Data</h2>
+<h2 id="workflow"> How I Work With Data</h2>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/niranjannandams99-droid/niranjannandams99-droid/main/assets/data-workflow.svg" width="100%" alt="Data workflow pipeline" />
@@ -104,7 +96,7 @@ I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning
 
 <br/>
 
-<h2 id="experience">05 — Professional Experience</h2>
+<h2 id="experience"> Professional Experience</h2>
 
 <table>
 <tr>
@@ -128,7 +120,7 @@ This is the same discipline I now apply to dashboards and models — question th
 
 <br/>
 
-<h2 id="activity">06 — GitHub Activity</h2>
+<h2 id="activity"> GitHub Activity</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=niranjannandams99-droid&show_icons=true&hide_title=true&theme=react&bg_color=0B0F19&title_color=22D3EE&icon_color=A78BFA&text_color=8B95A7&border_color=1C2333&border_radius=10" width="49%" alt="GitHub Stats"/>
@@ -139,7 +131,7 @@ This is the same discipline I now apply to dashboards and models — question th
 
 <br/>
 
-<h2 id="learning">07 — Currently Exploring</h2>
+<h2 id="learning"> Currently Exploring</h2>
 
 <div align="center">
 
@@ -149,7 +141,7 @@ This is the same discipline I now apply to dashboards and models — question th
 
 <br/>
 
-<h2 id="career-status">08 — Career Status</h2>
+<h2 id="career-status"> Career Status</h2>
 
 <div align="center">
 
