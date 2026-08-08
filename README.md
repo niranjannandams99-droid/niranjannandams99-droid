@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2 id="about">01 — About</h2>
+<h2 id="about"> About</h2>
 
 I'm an **ECE graduate** who started my career as an **Instrumentation Engineer** in manufacturing — reading signals, monitoring processes, and troubleshooting systems where a wrong number has real consequences. That habit of trusting data over assumption is what pulled me into **Data Analytics and Data Science**.
 
@@ -35,7 +35,7 @@ I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning
 
 <br/>
 
-<h2 id="tech-stack">02 — Tech Stack</h2>
+<h2 id="tech-stack"> Tech Stack</h2>
 
 <table align="center">
 <tr><td align="center"><b>Data Analytics</b></td></tr>
@@ -89,38 +89,6 @@ I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning
 
 <br/>
 
-<h2 id="projects">03 — Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Customer Analytics
-
-SQL-based business intelligence system built on real-world e-commerce transactional data — customer segmentation, purchase behavior, and revenue analysis using pure SQL logic.
-
-**Stack:** MySQL · T-SQL
-
-**Focus:** Business intelligence, customer analytics, transactional data modeling
-
-[![Repo](https://img.shields.io/badge/View%20Repository-0B0F19?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/niranjannandams99-droid/E-Commerce-Customer-Analytics)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Bangalore Restaurant Market Analysis
-
-Data-driven analysis of Bangalore's restaurant market using the Zomato dataset — demand patterns, competition density, pricing trends, and potential locations for new restaurants.
-
-**Stack:** Python · Pandas · NumPy · Data Visualization
-
-**Focus:** Exploratory data analysis, market intelligence
-
-[![Repo](https://img.shields.io/badge/View%20Repository-0B0F19?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/niranjannandams99-droid/Data_Driven_Market_Analysis)
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <sub>More projects — Power BI dashboards, ML, and deep learning work — are in progress and will be added here as they're published.</sub>
