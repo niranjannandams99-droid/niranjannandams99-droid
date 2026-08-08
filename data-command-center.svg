@@ -1,0 +1,88 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="100%" stop-color="#0B0F19"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="nodeGlowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nodeGlowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <style>
+      .label { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; letter-spacing: 1.5px; fill: #E6EDF3; }
+      .sub { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 10.5px; fill: #8B95A7; letter-spacing: 0.5px; }
+      .tag { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; fill: #22D3EE; letter-spacing: 3px; }
+      .node-rect { fill: #0B0F19; stroke-width: 1.4; }
+      @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+      .pulseNode { animation: pulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="900" height="230" fill="url(#bgGrad)"/>
+  <rect x="0.5" y="0.5" width="899" height="229" fill="none" stroke="#1C2333" stroke-width="1"/>
+
+  <text x="30" y="34" class="tag">DATA COMMAND CENTER</text>
+  <line x1="30" y1="46" x2="230" y2="46" stroke="#1C2333" stroke-width="1"/>
+
+  <!-- connecting spine -->
+  <path id="spine" d="M 115 145 L 785 145" stroke="url(#lineGrad)" stroke-width="1.5" fill="none" opacity="0.55"/>
+
+  <!-- flowing particles along the spine -->
+  <circle r="3.2" fill="#22D3EE">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M 115 145 L 785 145"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.2" fill="#A78BFA">
+    <animateMotion dur="4s" begin="1.3s" repeatCount="indefinite" path="M 115 145 L 785 145"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.2" fill="#67E8F9">
+    <animateMotion dur="4s" begin="2.6s" repeatCount="indefinite" path="M 115 145 L 785 145"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Node 1: DATA -->
+  <g class="pulseNode">
+    <circle cx="115" cy="145" r="34" fill="url(#nodeGlowCyan)"/>
+  </g>
+  <rect x="65" y="115" width="100" height="60" rx="10" class="node-rect" stroke="#22D3EE"/>
+  <text x="115" y="141" text-anchor="middle" class="label">DATA</text>
+  <text x="115" y="158" text-anchor="middle" class="sub">raw signals</text>
+
+  <!-- Node 2: ANALYSIS -->
+  <g class="pulseNode" style="animation-delay:.4s">
+    <circle cx="338" cy="145" r="34" fill="url(#nodeGlowCyan)"/>
+  </g>
+  <rect x="278" y="115" width="120" height="60" rx="10" class="node-rect" stroke="#22D3EE"/>
+  <text x="338" y="141" text-anchor="middle" class="label">ANALYSIS</text>
+  <text x="338" y="158" text-anchor="middle" class="sub">patterns &amp; models</text>
+
+  <!-- Node 3: INSIGHT -->
+  <g class="pulseNode" style="animation-delay:.8s">
+    <circle cx="562" cy="145" r="34" fill="url(#nodeGlowViolet)"/>
+  </g>
+  <rect x="502" y="115" width="120" height="60" rx="10" class="node-rect" stroke="#A78BFA"/>
+  <text x="562" y="141" text-anchor="middle" class="label">INSIGHT</text>
+  <text x="562" y="158" text-anchor="middle" class="sub">what it means</text>
+
+  <!-- Node 4: DECISION -->
+  <g class="pulseNode" style="animation-delay:1.2s">
+    <circle cx="785" cy="145" r="34" fill="url(#nodeGlowViolet)"/>
+  </g>
+  <rect x="725" y="115" width="120" height="60" rx="10" class="node-rect" stroke="#A78BFA"/>
+  <text x="785" y="141" text-anchor="middle" class="label">DECISION</text>
+  <text x="785" y="158" text-anchor="middle" class="sub">action taken</text>
+
+  <text x="450" y="205" text-anchor="middle" class="sub">turning raw numbers into decisions worth making</text>
+</svg>
