@@ -25,9 +25,9 @@
 
 <h2 id="about"> About</h2>
 
-I'm an **ECE graduate** who started my career as an **Instrumentation Engineer** in manufacturing — reading signals, monitoring processes, and troubleshooting systems where a wrong number has real consequences. That habit of trusting data over assumption is what pulled me into **Data Analytics and Data Science**.
+I'm an **ECE graduate** who started my career as an **Instrumentation Engineer** in manufacturing, reading signals, monitoring processes, and troubleshooting systems where a wrong number has real consequences. That habit of trusting data over assumption is what pulled me into **Data Analytics and Data Science**.
 
-I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning** to turn raw datasets into dashboards and models that people can actually act on. The engineering background isn't a detour — it's why I default to asking *"does this number actually hold up?"* before I trust a chart.
+I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning** to turn raw datasets into dashboards and models that people can actually act on. The engineering background isn't a detour. it's why I default to asking *"does this number actually hold up?"* before I trust a chart.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/niranjannandams99-droid/niranjannandams99-droid/main/assets/transition-timeline.svg" width="100%" alt="Career transition timeline" />
