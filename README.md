@@ -1,106 +1,133 @@
 <img width="2000" height="600" alt="White   Black Simple Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/c2a7850e-2047-4ad1-a4d0-4518a83fc238" />
 
-<h1 align="center">Hi 👋, I'm Niranjan Nandam</h1>
-<h3 align="center">ECE Graduate | Instrumentation Engineer turned Data Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Python+%7C+SQL;Turning+raw+data+into+real+insights;E-Commerce+%26+Market+Analytics;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Niranjan%20Nandam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Python%20%7C%20SQL%20%7C%20Analytics&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/niranjannandams99-droid">
-    <img src="https://komarev.com/ghpvc/?username=niranjannandams99-droid&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/niranjannandams99-droid?label=Followers&style=flat&color=2E9EF7" alt="Followers" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+insights;ECE+Grad+%E2%86%92+Instrumentation+Engineer+%E2%86%92+Data+Analyst;Python+%7C+SQL+%7C+EDA+%7C+Dashboards;Always+learning%2C+always+building" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://github.com/niranjannandams99-droid">
+<img src="https://komarev.com/ghpvc/?username=niranjannandams99-droid&label=PROFILE+VIEWS&color=2E9EF7&style=for-the-badge" alt="Profile views"/>
+</a>
+<img src="https://img.shields.io/github/followers/niranjannandams99-droid?label=FOLLOWERS&style=for-the-badge&color=2E9EF7" alt="Followers"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-success?style=for-the-badge" alt="Open to work"/>
 
-- 🎓 Electronics & Communication Engineering (ECE) graduate
-- ⚙️ Prior industry experience as an **Instrumentation Engineer**
-- 📊 Currently focused on **Data Science, Python, SQL & Data Analysis**
-- 🔍 I love uncovering patterns in messy, real-world datasets
-- 🌱 Building a portfolio of hands-on analytics projects
-- 💬 Ask me about data cleaning, EDA, SQL queries, or dashboards
-- 📫 Open to Data Analyst / Data Science opportunities & collaborations
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack & Tools
+## 🧭 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+```yaml
+name:        Niranjan Nandam
+role:        Data Analyst / Aspiring Data Scientist
+background:  Electronics & Communication Engineering (ECE)
+experience:  Instrumentation Engineer (Industry)
+focus:       Python · SQL · Data Analysis · EDA · BI Dashboards
+mindset:     Curious, detail-oriented, loves messy real-world data
+looking_for: Data Analyst / Data Science roles & collaborations
+fun_fact:    I turn spreadsheets into stories 📊
+```
 
-### 📌 Featured Projects
+</td>
+<td width="40%" valign="top">
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/niranjannandams99-droid/Data_Driven_Market_Analysis">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjannandams99-droid&repo=Data_Driven_Market_Analysis&theme=default&hide_border=true&title_color=2E9EF7" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/niranjannandams99-droid/E-Commerce-Customer-Analytics">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjannandams99-droid&repo=E-Commerce-Customer-Analytics&theme=default&hide_border=true&title_color=2E9EF7" />
-      </a>
-    </td>
-  </tr>
+**⚡ Quick Facts**
+- 🎓 ECE Graduate
+- ⚙️ Ex-Instrumentation Engineer
+- 📊 Data Science & Analytics enthusiast
+- 🔭 Building a real-world project portfolio
+- 🌱 Currently sharpening SQL + Python + BI skills
+- 💬 Ask me about EDA, SQL queries & dashboards
+- 📫 Reach out — always happy to connect
+
+</td>
+</tr>
 </table>
 
-- 🍽️ **[Data-Driven Market Analysis](https://github.com/niranjannandams99-droid/Data_Driven_Market_Analysis)** — Analyzed Bangalore's restaurant market using the Zomato dataset to uncover demand, competition, pricing trends, and prime locations for new restaurants.
-- 🛒 **[E-Commerce Customer Analytics](https://github.com/niranjannandams99-droid/E-Commerce-Customer-Analytics)** — Built a SQL-based business intelligence system for customer analytics using real-world e-commerce transactional data.
+<div align="center">
 
----
+### 🛠️ Tech Stack
 
-### 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,jupyter,matplotlib,seaborn,git,github&perline=9" alt="Tech stack icons"/>
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=niranjannandams99-droid&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjannandams99-droid&layout=compact&theme=default&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannandams99-droid&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
----
+<br/>
 
-### 📈 Contribution Graph
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjannandams99-droid&theme=react-dark&hide_border=true" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🍽️ [Data-Driven Market Analysis](https://github.com/niranjannandams99-droid/Data_Driven_Market_Analysis)
+Analyzed Bangalore's restaurant market using the **Zomato dataset** to uncover demand patterns, competitor density, pricing trends, and prime locations for new restaurants.
 
-### 🤝 Connect With Me
+`Python` `Pandas` `EDA` `Data Visualization` `Jupyter Notebook`
 
-<p align="center">
-  <a href="https://github.com/niranjannandams99-droid">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center"><i>⭐️ From data to decisions — let's build something insightful together.</i></p>
+### 🛒 [E-Commerce Customer Analytics](https://github.com/niranjannandams99-droid/E-Commerce-Customer-Analytics)
+Built a **SQL-based BI system** for customer analytics using real-world e-commerce transactional data — covering segmentation, retention, and sales trends.
+
+`SQL` `T-SQL` `Business Intelligence` `Customer Analytics`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<i>More projects coming soon — stay tuned 🚀</i>
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=niranjannandams99-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjannandams99-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjannandams99-droid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/niranjannandams99-droid" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<i>⭐️ "From data to decisions — let's build something insightful together."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
