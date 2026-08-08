@@ -74,7 +74,6 @@ I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning
 <img src="https://img.shields.io/badge/PyTorch-22D3EE?style=for-the-badge&logo=pytorch&logoColor=0B0F19" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/CNN-22D3EE?style=for-the-badge&logoColor=0B0F19" alt="CNN"/>
 <img src="https://img.shields.io/badge/RNN%20·%20LSTM-22D3EE?style=for-the-badge&logoColor=0B0F19" alt="RNN LSTM"/>
-<img src="https://img.shields.io/badge/Attention-22D3EE?style=for-the-badge&logoColor=0B0F19" alt="Attention"/>
 </td></tr>
 
 <tr><td align="center"><b>Tools</b></td></tr>
