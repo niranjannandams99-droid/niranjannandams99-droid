@@ -1,0 +1,15 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jstrieb/github-stats@master
+        with:
+          username: niranjannandams99-droid
+          access_token: ${{ secrets.ACCESS_TOKEN }}
