@@ -162,7 +162,7 @@ This is the same discipline I now apply to dashboards and models — question th
 
 <br/>
 
-<h2 id="contact">09 — Let's Build Something Meaningful With Data</h2>
+<h2 id="contact"> Let's Build Something Meaningful With Data</h2>
 
 <div align="center">
 
