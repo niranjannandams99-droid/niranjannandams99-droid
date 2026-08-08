@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/niranjannandams99-droid/niranjannandams99-droid/main/assets/hero-banner.svg" width="100%" alt="Niranjan Nandam — Data Analyst" />
+<img src="https://raw.githubusercontent.com/niranjannandams99-droid/niranjannandams99-droid/main/assets/hero-banner.svg" width="100%" alt="Niranjan Nandam | Data Analyst" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/niranjannandams99-droid/niranjannandams99-droid/main/assets/data-command-center.svg" width="100%" alt="Data Command Center — Data to Analysis to Insight to Decision" />
+<img src="https://raw.githubusercontent.com/niranjannandams99-droid/niranjannandams99-droid/main/assets/data-command-center.svg" width="100%" alt="Data Command Center | Data to Analysis to Insight to Decision" />
 </div>
 
 <br/>
@@ -103,7 +103,7 @@ I now work with **Python, SQL, Power BI, Machine Learning,** and **Deep Learning
 
 **Instrumentation Engineer** · Manufacturing
 
-Worked with industrial process data before moving into analytics — the transferable skill set carried over directly:
+Worked with industrial process data before moving into analytics | the transferable skill set carried over directly:
 
 - Process monitoring and industrial data interpretation
 - Troubleshooting and root-cause analysis
@@ -111,7 +111,7 @@ Worked with industrial process data before moving into analytics — the transfe
 - Process control and SAP PM exposure
 - Analytical, evidence-first problem solving
 
-This is the same discipline I now apply to dashboards and models — question the number before you trust the chart.
+This is the same discipline I now apply to dashboards and models, question the number before you trust the chart.
 
 </td>
 </tr>
@@ -170,6 +170,6 @@ This is the same discipline I now apply to dashboards and models — question th
 
 <br/><br/>
 
-<sub>© Niranjan Nandam — Data Analyst · Python · SQL · Power BI · Machine Learning</sub>
+<sub>© Niranjan Nandam | Data Analyst · Python · SQL · Power BI · Machine Learning</sub>
 
 </div>
