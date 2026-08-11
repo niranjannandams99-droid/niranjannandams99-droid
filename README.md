@@ -122,11 +122,7 @@ This is the same discipline I now apply to dashboards and models, question the n
 <h2 id="activity">GitHub Activity</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=niranjannandam99-droid&theme=dark"
-      alt="GitHub Streak"
-    />
+<img src="https://github.com/niranjannandams99-droid/github-stats/blob/generated/overview.svg#gh-dark-mode-only" width="49%" alt="GitHub Stats"/>
   </a>
 </div>
 
