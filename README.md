@@ -123,7 +123,7 @@ This is the same discipline I now apply to dashboards and models, question the n
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=john123&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=dark&hide_border=true"
     width="66%"
     alt="GitHub Streak"
   />
