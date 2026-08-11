@@ -119,17 +119,19 @@ This is the same discipline I now apply to dashboards and models, question the n
 
 <br/>
 
-<h2 id="activity"> GitHub Activity</h2>
+<h2 id="activity">GitHub Activity</h2>
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=niranjannandams99-droid&theme=dark&hide_border=true"
-    width="66%"
-    alt="GitHub Streak"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=niranjannandam99-droid&theme=dark"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
 
 <br/>
+
 
 <h2 id="learning"> Currently Exploring</h2>
 
